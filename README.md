@@ -1,3 +1,4 @@
 # HiggsML Challenge
 This is the code from my class project in CS7357 - Neural Nets and Deep Learning   
-I plan to use this project to explore machine learning techniques for particle classification.   
+
+In this project, I explored the effectiveness of a Deep Neural Network in classifying particle detections in the LHC. More info can be found here https://www.kaggle.com/c/higgs-boson
